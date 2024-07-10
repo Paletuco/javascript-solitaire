@@ -245,5 +245,5 @@ function checkDragToPile(pileId, cardId, previousPileId) {
 function mapOneCardToPile1() {
     const card=createCard(1,"hearts")
 }
-//mapDeckToPiles()
+#mapDeckToPiles()
 
