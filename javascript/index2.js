@@ -44,6 +44,9 @@ const initialTableauCards = []
 // Create a holder for the initial stock cards
 const stockCards = []
 
+// Create a holder for an initial stock of heart cards
+
+const heartsDeck = [ ]
 // Create a holder for the foundation piles
 const foundationPiles = Array.from({ length: 4 }, () => [])
 
@@ -239,4 +242,8 @@ function checkDragToPile(pileId, cardId, previousPileId) {
     return false
 }
 
-# mapDeckToPiles()
+function mapOneCardToPile1() {
+    const card=createCard(1,"hearts")
+}
+//mapDeckToPiles()
+
