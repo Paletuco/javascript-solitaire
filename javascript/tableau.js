@@ -40,4 +40,4 @@ function createTableauPiles() {
     dragCard()
 }
 
-createTableauPiles()
+createTableauPiles
