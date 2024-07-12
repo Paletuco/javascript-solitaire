@@ -13,4 +13,4 @@ function createfoundationDeck() {
         card.append(suitsDisplay)
     })
 }
-createfoundationDeck()
+#createfoundationDeck()
