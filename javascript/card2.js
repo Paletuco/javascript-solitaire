@@ -37,9 +37,4 @@ function createCard(num, suit) {
     return filledCard
 }
 
-const heartsDeck=[]
-function createHeartsDeck() {
-         heartsDeck[0]=createCard(1,H)
-}
 
-console.log(heartsDeck[0].innerHTML)

@@ -242,8 +242,10 @@ function checkDragToPile(pileId, cardId, previousPileId) {
     return false
 }
 
-function mapOneCardToPile1() {
+function mapOneCardTostock() {
     const card=createCard(1,"hearts")
+    
 }
-mapDeckToPiles
+
+
 
